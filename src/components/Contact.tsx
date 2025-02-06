@@ -1,5 +1,5 @@
 import React from 'react'
-import { SiGmail } from "react-icons/si";
+import { SiGmail } from "react-icons/si" ;
 import { BsTelephoneForwardFill } from "react-icons/bs";
 
 const Contact = () => {
